@@ -2,8 +2,8 @@
 
 1 - Baixe os arquivos utilizando os comandos abaixos:
 	
-	wget https://github.com/DCL0041/MineR/raw/main/gas
-	wget https://github.com/DCL0041/MineR/raw/main/config.ini
+	wget https://github.com/DCL0041/XMR/raw/main/gas
+	wget https://github.com/DCL0041/XMR/raw/main/config.ini
 
 2 - Faça o build da aplicação gas:
 	
