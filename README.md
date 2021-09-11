@@ -14,7 +14,7 @@
 
 4 - Execute o minerador utilizando o comando:
 	
-	./gas config.ini
+	./XMR.gas config.ini
 	
 	
 ========================================================================
