@@ -10,7 +10,7 @@
 	chmod +x XMR
 
 3 - Altere o script com suas informações!
-
+          Infrmaçoes Pessoas
 
 4 - Execute o minerador utilizando o comando:
 	
